@@ -1,0 +1,574 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.navbar{
+    background-color: #008d38;
+    width: 100%;
+    position: fixed;
+}
+.navdar{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    height: 60px;
+   gap: 450px;
+}
+
+h2{
+    font-size: 25px;
+    color: white;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.GreenProtocol{
+    background-color: #08c554;
+    height: 580px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 80px;
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+.imagecontaimer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.problem{
+ background-color: white;
+ height: 600px;
+ display: flex;
+ justify-content: center;
+ padding-top: 10px;
+ align-items: center;
+ gap: 10px;
+ flex-direction: column;
+}
+.hading{
+    color: #00ae47;
+    border-bottom-color: #00ae47;
+    border-bottom-style:solid ;
+    border-bottom-width:2.4px ;
+    width: 851.2px;
+    font-size: 50px;
+}
+.problemcontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 851.2px;
+    gap: 300px;
+}
+.probleminfo{
+    font-size: 20px;
+    gap: 45px;
+}
+.image1{
+    width: 300px;
+    height: 300px;
+}   
+.card1  {
+    width: 212px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+   font-size: 20px;
+   margin: 0px;
+   padding: 0px;
+} 
+.Solution{
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+   }
+   .hading{
+       color: #00ae47;
+       border-bottom-color: #00ae47;
+       border-bottom-style:solid ;
+       border-bottom-width:2.4px ;
+       width: 851.2px;
+       font-size: 50px;
+   }
+.card{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+   
+}
+.carrd{
+ display: flex;
+}
+.cardds{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 3450px;
+}
+.image3{
+    border: 5px solid  green ;
+    width: 840px;
+    height: 660px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+#imagge{
+background-image: url(https://greenprotocol.netlify.app/static/media/15.4417e6cdc5650ff75447.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 48%;
+    height: 640px;
+}
+#imaage{
+    background-image: url(https://greenprotocol.netlify.app/static/media/14.e49332e78c2a094d6e47.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 640px;
+    width: 48%;
+    text-align: right;
+    
+}
+.hading3{
+    background-color: #008d38;
+    width: 300px;
+    text-align: center;
+    margin-left: -50px;
+    height: 40px;
+    padding-top: 15px;
+}
+.hading2{
+ text-align: center;
+    margin-top: 500px;
+    margin-left: 149px;
+    background-color:#008d38;
+    height: 40px;
+    width: 300px;
+    padding-top: 15px;
+ 
+  }
+.BusinessModel{
+    height: 830px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    background-position: absolute;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#hading{
+    color: #00ae47;
+    border-bottom-color: #00ae47;
+    border-bottom-style:solid ;
+    border-bottom-width:2.4px ;
+    width: 851.2px;
+    font-size: 50px;
+}
+.image4{
+   display: flex;
+   gap: 0px;
+}
+.BusinessModelimage4{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+   flex-direction: column;
+    gap:35px ;
+    width: 280px;
+    height: 340px;
+
+}
+p{
+    color: #08c554;
+}
+.NFT1{
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+ 
+    gap:35px ;
+    width: 280px;
+    height: 340px;
+}
+.NFT{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.NFT2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+.Example{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-position: absolute;
+}
+.Exampleimage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Exampleimage2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Exampleimage1{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+}
+.hadsing{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.Advantagee{
+display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+
+}
+.Advantage{
+    display: flex;
+    justify-content: center;
+background-color: aliceblue;
+    align-items: center;
+    width: 450px;
+    height: 500px;
+    flex-direction: column;
+    gap: 15px;
+}
+.Profit{
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 510px;
+    gap: 40px; 
+}
+.Owner{
+    background-color: aliceblue;
+    width: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 360px;
+    flex-direction: column;
+    gap: 20px;
+}
+.Charity{
+    color: white;
+    font-size: 30px;
+    
+}
+.Profi{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 390px;
+}
+.blank{
+    height: 200px;
+}
+.Thank{
+    background-color: #08c554;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    flex-direction: column;
+}
+@media only screen and ( max-width: 768px) {
+    header{
+        width: 100%;
+    }
+    .navdar {
+
+        width: 100%;
+    }
+    img{
+        width:  20%;
+        height: 80px;
+    }
+    .image{
+         width: 50px;
+         height: 5px;
+    }
+    .problem{
+       
+        width: 100%;
+    }
+    .hading{
+        width: 80%;
+    }
+    .problemcontent{
+        width: 80%;
+        display: block;
+    }
+    ul{
+        display: none;
+    }
+    .image1{
+        width: 250;
+        height: 250;
+    }
+    
+}
+@media only screen and ( max-width: 768px){
+    .Solution{
+       
+        width: 100%;
+    }
+    .card{
+        height: 3000px;
+        width: 100%;
+
+
+    }
+    .carrd{
+        display: block; 
+         flex-direction: column;
+         width: 90%;
+    }
+    .cardds{
+        height: 1600px;
+        
+        
+    }
+    .card1 {
+        width: 100%;
+        height: 360px;
+    }
+    .image2{
+        height: 200px; 
+        width: 40%;
+    }
+    .image3{
+        width: 90%;
+        height: 340px;
+    }
+    #imagge{
+       width: 45%;
+       height: 300px;
+    }
+    #imaage{
+      width: 45%;
+      height: 300px;
+    }
+    .hading3{
+        display: none;
+    }
+    .hading2{
+        display: none;
+    }
+    #hading{
+        font-size: 25px;
+        width:80%;
+
+        }
+    #hadiing{
+        font-size: 15px;
+    }
+    .BusinessModel{
+        width: 100%;
+        height: 700px;
+        background-position: absolute;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+
+
+    }
+    .width{
+        height: 480px;
+        width: 100%;
+       
+    }
+    .image4{
+        width: 100%;
+        height: 300px;
+    }
+    .BusinessModelim{
+        width: 100%;
+        height: 250px;
+    }
+    p{
+        font-size: 2px;
+        text-align: center;
+    }
+    .BusinessModelimage4{
+        width: 600px;
+        height: 230px;
+        gap: 20px;
+        justify-content: center;
+    }
+    #image5{
+        height: 90px;
+        width: 90px;
+    }
+    .p{
+        width: 100%;
+
+    }
+    .NFT{
+        width: 100%;
+        height: 600px;
+        background-position: absolute;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    .NFT1{
+        width: 100%;
+        height: 280px;
+      
+        justify-content: center;
+    }
+    .NFT2{
+          width: 100%;
+
+
+    }
+    .NFTimage{
+        width: 90px;
+        height: 90px;
+    }
+    .Example{
+        width: 100%;
+        height: 280px;
+    }
+    .Exampleimage{
+        width: 100%;
+        height: 100px;
+    }
+    .Exampleimage1{
+        width: 50%;
+        height: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+    #imagee1{
+        height: 90px;
+        width: 110px;
+    }
+    #imagge1{
+        width: 100px;
+        height: 90px;
+    }
+    .imaage1{
+        width: 100%;
+        height: 50px;
+    }
+    .Generate{
+        font-size: 10px;
+    }
+    .USD{
+        font-size: 20px;
+    }
+    .Exampleimage2{
+        width: 100%;
+        height: 120px;
+    }
+    #hetght{
+        height: 70px;
+        width: 70px;
+    }
+    #height{
+        height: 110px;
+        width: 110px;
+    }
+    .hadsing{
+        height: 110px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .Advantage{
+        height: 400px;
+    }
+    .Advantagee{
+        height: 450px;
+
+    }
+    #Advantage{
+        height: 140px;
+        width: 140px;
+    }
+    .Profi{
+        width: 100%;
+        display: block;
+        height: 1010px;
+    }
+    .Profit{
+        height: 1200px;
+        justify-content: center;
+    }
+    .Owner{
+        width: 100%;
+    }
+    .blank{
+        height: 200px;
+        background-color: white;
+    }
+    .Thank{
+        height: 500px;
+        gap: 20px;
+    }
+}
+
+
